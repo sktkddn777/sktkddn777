@@ -4,11 +4,10 @@
 - 🌱 I’m currently learning about algorithm
 - 📫 How to reach me: sanguh096@gmail.com
 - 😄 Pronouns: Health boy
-- ⚡ Fun fact: I like health and I want to be a good programmer
+- ⚡ Fun fact: I like health and I wanna be a good programmer
 
 
 🧑🏻‍💻 I'm studying  
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
