@@ -1,16 +1,21 @@
-### Hi there 👋 나는 상우에용
+### Hi there 👋 나는 상우에용  
 
-- 🔭 I’m currently student of Korea Polytechnic Univ.
-- 🌱 I’m currently learning about algorithm
-- 📫 How to reach me: sanguh096@gmail.com
-- 😄 Pronouns: Health boy
-- ⚡ Fun fact: I like health and I wanna be a good programmer
 
+🔭 I’m currently student of Korea Polytechnic Univ.  
+👯 I’m currently learning about algorithm  
+📫 How to reach me: sktkddn777@naver.com  
+⚡ Fun fact: I like health and I wanna be a good programmer  
+
+<br>
+
+🌱 I am a student developer studying in **42Seoul**.  
+[![sangwoha's 42 stats](https://badge42.vercel.app/api/v2/cl1ry16uv001109l0luba4ouu/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
+[![sangwoha's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1ry16uv001109l0luba4ouu/project/2530768)](https://github.com/JaeSeoKim/badge42)
 
 🧑🏻‍💻 I'm studying  
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6DB33F)
@@ -21,7 +26,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
-<br/>
+
+<br>
 <br/>
 
 <p align="center">
