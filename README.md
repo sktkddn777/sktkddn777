@@ -29,26 +29,7 @@
 
 
 <h3 > Tech Stack👨🏻‍💻</h3>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat-square&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-squaree&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-339933?style=flat&logo=Swagger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgresql-4459A1?style=flat&logo=Postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-DC332D?style=flat&logo=Grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-DC732D?style=flat&logo=Prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-6DB66F?style=flat&logo=Nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-squaree&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/><img src="https://img.shields.io/badge/Swagger-339933?style=flat&logo=Swagger&logoColor=white"/><img src="https://img.shields.io/badge/Postgresql-4459A1?style=flat&logo=Postgresql&logoColor=white"/><img src="https://img.shields.io/badge/Grafana-DC332D?style=flat&logo=Grafana&logoColor=white"/><img src="https://img.shields.io/badge/Prometheus-DC732D?style=flat&logo=Prometheus&logoColor=white"/><img src="https://img.shields.io/badge/Nginx-6DB66F?style=flat&logo=Nginx&logoColor=white"/>
 
 <br>
 
