@@ -14,7 +14,6 @@
 - 🎓 Tech University of Korea, Computer Engineering  
 - 🏢 42Seoul La Piscine (22/01/31 ~ 22/02/25)
 - 🏪 42Seoul Cadet (22/03/07 ~ 22/09/20)
-- 🏫 실리콘벨리 부트 캠프 (22/07/01 ~ 22/08/05)
 - 🏃 Java Study (22/08/23 ~ )
 
 ### What I Like
