@@ -21,6 +21,10 @@
 - 💻 Mogakko
 - 🚅 Work out
 
+### Certificate
+- TOEIC (2021.03)
+- 정보처리기사 (2022.11)
+
 <br>
 
 
