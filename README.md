@@ -15,6 +15,7 @@
 - 🏢 42Seoul La Piscine (22/01/31 ~ 22/02/25)
 - 🏪 42Seoul Cadet (22/03/07 ~ 22/09/20)
 - 🏃 Java Study (22/08/23 ~ )
+- 💻 SSAFY 9th (23/01/04 ~ )
 
 ### What I Like
 - 💻 Algorithm Solving
@@ -53,7 +54,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sktkddn777)](https://solved.ac/sktkddn777/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sktkddn777)](https://solved.ac/sktkddn777/) -->
 
 
 <p align="center">
@@ -62,18 +63,3 @@
   <p align="center">
   <img height='130px' src="https://github-readme-stats.vercel.app/api?username=sktkddn777&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl" />
 </p>
-
-<!--
-**sktkddn777/sktkddn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
