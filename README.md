@@ -31,7 +31,7 @@
 
 <br>
 
-<h3 > Tech Stack👨🏻‍💻</h3>
+<!-- <h3 > Tech Stack👨🏻‍💻</h3> -->
 
 <!-- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat-square&logo=javascript&logoColor=black"></a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
@@ -60,9 +60,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktkddn777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=sktkddn777&hide_border=false&theme=nightowl" />
-</p>
-  <p align="center">
-  <img height='130px' src="https://github-readme-stats.vercel.app/api?username=sktkddn777&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl" />
-</p>
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=sktkddn777&hide_border=false&theme=nightowl" />
+
+<img height='130px' src="https://github-readme-stats.vercel.app/api?username=sktkddn777&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl" />
